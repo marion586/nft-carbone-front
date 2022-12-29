@@ -10,6 +10,7 @@
         "coverage": "vitest run --coverage"
     },
     "dependencies": {
+        "@ant-design/icons-vue": "^6.1.0",
         "@geoman-io/leaflet-geoman-free": "^2.13.0",
         "@stripe/stripe-js": "^1.38.1",
         "@types/chart.js": "^2.9.37",
